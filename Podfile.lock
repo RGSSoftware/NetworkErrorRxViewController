@@ -1,0 +1,22 @@
+PODS:
+  - CDAlertView (0.6.0)
+  - NSObject+Rx (2.0.0):
+    - RxSwift
+  - RxCocoa (3.2.0):
+    - RxSwift (~> 3.1)
+  - RxSwift (3.2.0)
+
+DEPENDENCIES:
+  - CDAlertView (= 0.6.0)
+  - NSObject+Rx (= 2.0.0)
+  - RxCocoa (= 3.2.0)
+
+SPEC CHECKSUMS:
+  CDAlertView: e6f365fa0fac7349197e7ea4bd7810c069215cf4
+  NSObject+Rx: 2a9cd801d9c847e6d2486cbad8d7701b67834e70
+  RxCocoa: ccdf43101a70407097a29082f648ba1676075b30
+  RxSwift: 46574f70d416b7923c237195939cc488a7fbf3a0
+
+PODFILE CHECKSUM: f821875546ce7bbf1169c62877634e2d17d17f08
+
+COCOAPODS: 1.1.1
